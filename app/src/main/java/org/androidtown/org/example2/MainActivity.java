@@ -8,6 +8,10 @@ public class MainActivity extends AppCompatActivity {
     //마스터
     //마스터백업
 
+    public void a(){
+        int a = 1;
+
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
